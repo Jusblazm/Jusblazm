@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... python and php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord - Jusblazm#5772
+- 📫 How to reach me ... discord - Jusblazm
 
 <!---
 Jusblazm/Jusblazm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
