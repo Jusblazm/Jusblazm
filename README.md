@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jusblazm I also go by @rslarkin
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... python and php
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... discord - Jusblazm
 
 <!---
