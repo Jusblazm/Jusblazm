@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jusblazm I also go by @rslarkin
 - 🌱 I’m currently learning ... python and php
-- 📫 How to reach me ... discord - Jusblazm
 
 <!---
 Jusblazm/Jusblazm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
