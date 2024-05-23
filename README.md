@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
 <summary><b>Click here to see some cooldown exercises</b></summary>
 
 > ### Standing Forward Fold:
-    >>Stand with feet hip-width apart.
+>>Stand with feet hip-width apart.
 > 
-    >>Slowly bend forward at the hips, letting your upper body hang loosely.
+>>Slowly bend forward at the hips, letting your upper body hang loosely.
 >
-    >> Hold onto elbows or reach for your toes if comfortable.
+>> Hold onto elbows or reach for your toes if comfortable.
 >
-    >> Hold for 20-30 seconds, focusing on breathing deeply.
+>> Hold for 20-30 seconds, focusing on breathing deeply.
 
 > ### Child's Pose:
     >> Kneel on the floor with toes together and knees apart.
