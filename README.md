@@ -171,8 +171,11 @@ You can click the Preview link to take a look at your changes.
 
 > ### Cat-Cow Stretch (Marjaryasana-Bitilasana):
 >> Start on your hands and knees in a tabletop position.
+>> 
 >> Inhale as you arch your back, dropping your belly towards the floor and lifting your head and tailbone (Cow Pose).
+>> 
 >> Exhale as you round your spine, tucking your chin towards your chest and pressing into the floor with your hands (Cat Pose).
+>> 
 >> Flow between these two poses for 1-2 minutes, coordinating with your breath.
 
 </details>
