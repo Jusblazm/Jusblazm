@@ -167,7 +167,7 @@ You can click the Preview link to take a look at your changes.
     >
     >> Continue alternating twists for 10-15 repetitions on each side.
 
-</details><br>
+</details>
 
 - **Yoga or Pilates (30-45 minutes):** Focus on poses or exercises that engage core muscles and improve flexibility.
 
