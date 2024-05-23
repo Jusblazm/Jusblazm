@@ -24,8 +24,7 @@ You can click the Preview link to take a look at your changes.
 <summary><b>Click here to see some cooldown exercises</b></summary>
 
 > ### Standing Forward Fold:
->> Stand with feet hip-width apart.
->> 
+>> Stand with feet hip-width apart.<br>
 >> Slowly bend forward at the hips, letting your upper body hang loosely.
 >> 
 >> Hold onto elbows or reach for your toes if comfortable.
