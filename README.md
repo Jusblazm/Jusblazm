@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 > ### Standing Forward Fold:
     >>Stand with feet hip-width apart.
-    > 
+> 
     >>Slowly bend forward at the hips, letting your upper body hang loosely.
-    >
+>
     >> Hold onto elbows or reach for your toes if comfortable.
-    >
+>
     >> Hold for 20-30 seconds, focusing on breathing deeply.
 
 > ### Child's Pose:
