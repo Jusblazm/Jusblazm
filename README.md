@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jusblazm I also go by @rslarkin
-- 🌱 I’m currently learning ... python, php, and javascript
+- 🌱 Eastern Washington University working toward a Bachelor of Computer Science.
+- 🖥️ Python, Pycord, Django, PHP, HTML, TailwindCSS, Bootstrap, JavaScript, C#, ASP.NET, SQL
 
 <!---
 Jusblazm/Jusblazm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
