@@ -7,7 +7,7 @@ Jusblazm/Jusblazm is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-#### Programmers sometimes spend too much time sitting.
+### Programmers sometimes spend too much time sitting.
 
 <details>
 <summary><b>Click here to see a beginner friendly workout routine</b></summary>
