@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
 - **Dynamic Stretching (10-15 minutes):** Perform dynamic stretches to improve flexibility and mobility.
 
 <details>
-<summary><b>Click here to some dynamic stretches</b></summary>
+<summary><b>Click here to see some dynamic stretches</b></summary>
 
 > ### Leg Swings:
 >> Stand tall with feet hip-width apart and hold onto a stable surface for balance (like a wall or chair).<br>
