@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jusblazm; I also go by @rslarkin
+- 👋 Hi, I’m @Jusblazm!
 - 🌱 Eastern Washington University working toward a Bachelor of Computer Science.
 - 🖥️ Python, Pycord, Django, PHP, HTML, TailwindCSS, JavaScript, C#, ASP.NET, Java, Lua, MySQL, PostgreSQL
-- 🤖 Visit me on [TryHackMe](https://tryhackme.com/p/rlarkin3)!
+- 🤖 Visit me on [TryHackMe](https://tryhackme.com/p/Jusblazm)!
 
 <!---
 Jusblazm/Jusblazm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
