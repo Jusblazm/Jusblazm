@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jusblazm!
 - 🌱 Eastern Washington University working toward a Bachelor of Computer Science.
-- 🖥️ Python, Pycord, Django, PHP, HTML, TailwindCSS, JavaScript, C#, ASP.NET, Java, Lua, MySQL, PostgreSQL
+- 🖥️ Python, Pycord, Django, PHP, HTML, TailwindCSS, JavaScript, C, C#, ASP.NET, Java, Lua, MySQL, PostgreSQL
 - 🤖 Visit me on [TryHackMe](https://tryhackme.com/p/Jusblazm)!
 
 <!---
